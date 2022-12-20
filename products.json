@@ -1,0 +1,82 @@
+[
+    {
+        "code": 1,
+        "title": "fanta",
+        "description": "fanta descripcion",
+        "price": 450,
+        "thumbnail": "imagefanta.jpg",
+        "stock": 20
+    },
+    {
+        "code": 2,
+        "title": "coca",
+        "description": "coca descripcion",
+        "price": 450,
+        "thumbnail": "imagecoca.jpg",
+        "stock": 20
+    },
+    {
+        "code": 3,
+        "title": "sprite",
+        "description": "sprite descripcion",
+        "price": 450,
+        "thumbnail": "imagesprite.jpg",
+        "stock": 20
+    },
+    {
+        "code": 4,
+        "title": "pepsi",
+        "description": "pepsi descripcion",
+        "price": 450,
+        "thumbnail": "imagepepsi.jpg",
+        "stock": 20
+    },
+    {
+        "code": 5,
+        "title": "manaos",
+        "description": "manaos descripcion",
+        "price": 450,
+        "thumbnail": "imagemanaos.jpg",
+        "stock": 20
+    },
+    {
+        "code": 6,
+        "title": "7up",
+        "description": "7up descripcion",
+        "price": 450,
+        "thumbnail": "image7up.jpg",
+        "stock": 20
+    },
+    {
+        "code": 7,
+        "title": "mirinda",
+        "description": "mirinda descripcion",
+        "price": 450,
+        "thumbnail": "imagemirinda.jpg",
+        "stock": 20
+    },
+    {
+        "code": 8,
+        "title": "sunkist",
+        "description": "sunkist descripcion",
+        "price": 450,
+        "thumbnail": "imagesunkist.jpg",
+        "stock": 20
+    },
+    {
+        "code": 9,
+        "title": "schweppes",
+        "description": "schweppes descripcion",
+        "price": 450,
+        "thumbnail": "imageschweppes.jpg",
+        "stock": 20
+    },
+    {
+        "code": 10,
+        "title": "pepsi max",
+        "description": "pepsi max descripcion",
+        "price": 450,
+        "thumbnail": "imagepepsimax.jpg",
+        "stock": 20
+    }
+]

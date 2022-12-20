@@ -1,0 +1,16 @@
+{
+  "name": "servidores",
+  "version": "1.0.0",
+  "description": "Desafio entregable sobre servidores para el curso de Desarrollo Backend de Coderhouse",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [],
+  "author": "Santiago Bestoso",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
